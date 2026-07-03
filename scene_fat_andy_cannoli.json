@@ -1,0 +1,8 @@
+{
+  "scene_id": "fat_andy_cannoli_single_speaker",
+  "speaker": "Fat Andy",
+  "dialogue": "Ahhh... what is this trickery? Tony, what did you do to us?",
+  "first_sound": "Ahhh.",
+  "prompt": "Fat Andy is the only active speaker. He says exactly: \"Ahhh... what is this trickery? Tony, what did you do to us?\" The first sound is \"Ahhh.\" His mouth must open immediately within the first few frames. Use a simple dark cartoon mouth shape. No visible teeth. No buck teeth, rabbit teeth, individual teeth, square teeth, gums, or tongue. Keep the mustache separate from the mouth. Only animate mouth, jaw, eyebrows, and tiny eyelid expression. Keep body, arms, cream ends, background, and camera locked.",
+  "negative_prompt": "visible teeth, buck teeth, rabbit teeth, individual teeth, square teeth, gums, tongue, body motion, arm motion, background motion, camera motion"
+}
